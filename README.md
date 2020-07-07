@@ -1,6 +1,6 @@
 # MIDI-Note-Analizer
 
-This is a little test program that I'm using to learn more about python, and data analysis.
+This is a little test program that I'm using to learn more about python and data analysis.
 
 Functions as of now:
 
