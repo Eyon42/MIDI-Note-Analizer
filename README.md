@@ -14,6 +14,5 @@ TO-DO:
 - Plotting the scales on the background
 - Detecting key and scales, and hopefully more things
 - Track manager to select which tracks get plotted
-- Guitar pro files support
 - Identify percussion tracks and ignore(I have little idea about percussion)
 
